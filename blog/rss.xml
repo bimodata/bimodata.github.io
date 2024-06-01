@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Bimo Blog</title>
+        <link>https://bimodata.github.io/blog</link>
+        <description>Bimo Blog</description>
+        <lastBuildDate>Sat, 01 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>fr</language>
+        <item>
+            <title><![CDATA[Bienvenue sur le bimo-blog !]]></title>
+            <link>https://bimodata.github.io/blog/2024/06/01/bienvenue</link>
+            <guid>https://bimodata.github.io/blog/2024/06/01/bienvenue</guid>
+            <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Le projet Bimo regroupe un ensemble de briques logicielles permettant d'accélérer le développement de scripts ou d'applications traitant des données de transport collectif.]]></description>
+            <content:encoded><![CDATA[<p>Le projet Bimo regroupe un ensemble de briques logicielles permettant d'accélérer le développement de scripts ou d'applications traitant des données de transport collectif.</p>
+<p>Bimo est particulièrement adapté pour traiter des données issues ou à destination du progiciel <a href="https://www.giro.ca/fr-fr/nos-solutions/logiciel-hastus/" target="_blank" rel="noopener noreferrer">Hastus</a>, mais s'adapte à n'importe quel format de données.</p>
+<p>Une partie des composants de Bimo est déjà <a href="https://github.com/bimodata/bimo" target="_blank" rel="noopener noreferrer">publiée en open source</a> sous licence GNU LGPLv3. Le reste suivra petit à petit.</p>
+<p>Ce site a deux vocations:</p>
+<ul>
+<li>décrire la progression du projet de publication en open source</li>
+<li>héberger des articles démontrant des cas d'usages de Bimo</li>
+</ul>
+<p>N'hésitez pas à venir le consulter régulièrement et à utiliser le bouton contact en haut à droite pour vos commentaires, questions ou suggestions !</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

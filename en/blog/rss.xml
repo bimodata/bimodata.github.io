@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Bimo Blog</title>
+        <link>https://bimodata.github.io/en/blog</link>
+        <description>Bimo Blog</description>
+        <lastBuildDate>Sat, 01 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome to the bimo-blog !]]></title>
+            <link>https://bimodata.github.io/en/blog/2024/06/01/bienvenue</link>
+            <guid>https://bimodata.github.io/en/blog/2024/06/01/bienvenue</guid>
+            <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Bimo project is a collection of software components that help speed up development of transit data oriented scripts or applications.]]></description>
+            <content:encoded><![CDATA[<p>The Bimo project is a collection of software components that help speed up development of transit data oriented scripts or applications.</p>
+<p>Bimo is particularly suitable for processing data from or intended for the <a href="https://www.giro.ca/en-us/our-solutions/hastus-software/" target="_blank" rel="noopener noreferrer">Hastus</a> software, but can adapt to any data format.</p>
+<p>Part of Bimo's <a href="https://github.com/bimodata/bimo" target="_blank" rel="noopener noreferrer">source code</a> has already been open under the GNU LGPLv3 license. The rest is coming.</p>
+<p>This blog has two main purposes:</p>
+<ul>
+<li>describe the progression of the open source software publication project</li>
+<li>host articles that demonstrate some Bimo use cases</li>
+</ul>
+<p>The blog is currently written in French first and translated to English afterwards. The titles will always be translated as soon as an article is published, but the contents may take a little longer. If you see a title that looks particularly interesting and would like to have the contents translated faster, do not hesitate to get in touch using the Contact button at the top right corner.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

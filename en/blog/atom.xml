@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bimodata.github.io/en/blog</id>
+    <title>Bimo Blog</title>
+    <updated>2024-06-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bimodata.github.io/en/blog"/>
+    <subtitle>Bimo Blog</subtitle>
+    <icon>https://bimodata.github.io/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the bimo-blog !]]></title>
+        <id>https://bimodata.github.io/en/blog/2024/06/01/bienvenue</id>
+        <link href="https://bimodata.github.io/en/blog/2024/06/01/bienvenue"/>
+        <updated>2024-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Bimo project is a collection of software components that help speed up development of transit data oriented scripts or applications.]]></summary>
+        <content type="html"><![CDATA[<p>The Bimo project is a collection of software components that help speed up development of transit data oriented scripts or applications.</p>
+<p>Bimo is particularly suitable for processing data from or intended for the <a href="https://www.giro.ca/en-us/our-solutions/hastus-software/" target="_blank" rel="noopener noreferrer">Hastus</a> software, but can adapt to any data format.</p>
+<p>Part of Bimo's <a href="https://github.com/bimodata/bimo" target="_blank" rel="noopener noreferrer">source code</a> has already been open under the GNU LGPLv3 license. The rest is coming.</p>
+<p>This blog has two main purposes:</p>
+<ul>
+<li>describe the progression of the open source software publication project</li>
+<li>host articles that demonstrate some Bimo use cases</li>
+</ul>
+<p>The blog is currently written in French first and translated to English afterwards. The titles will always be translated as soon as an article is published, but the contents may take a little longer. If you see a title that looks particularly interesting and would like to have the contents translated faster, do not hesitate to get in touch using the Contact button at the top right corner.</p>]]></content>
+        <author>
+            <name>Gaël Haméon</name>
+            <uri>https://github.com/gaelhameon</uri>
+        </author>
+    </entry>
+</feed>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bimodata.github.io/blog</id>
+    <title>Bimo Blog</title>
+    <updated>2024-06-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bimodata.github.io/blog"/>
+    <subtitle>Bimo Blog</subtitle>
+    <icon>https://bimodata.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bienvenue sur le bimo-blog !]]></title>
+        <id>https://bimodata.github.io/blog/2024/06/01/bienvenue</id>
+        <link href="https://bimodata.github.io/blog/2024/06/01/bienvenue"/>
+        <updated>2024-06-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Le projet Bimo regroupe un ensemble de briques logicielles permettant d'accélérer le développement de scripts ou d'applications traitant des données de transport collectif.]]></summary>
+        <content type="html"><![CDATA[<p>Le projet Bimo regroupe un ensemble de briques logicielles permettant d'accélérer le développement de scripts ou d'applications traitant des données de transport collectif.</p>
+<p>Bimo est particulièrement adapté pour traiter des données issues ou à destination du progiciel <a href="https://www.giro.ca/fr-fr/nos-solutions/logiciel-hastus/" target="_blank" rel="noopener noreferrer">Hastus</a>, mais s'adapte à n'importe quel format de données.</p>
+<p>Une partie des composants de Bimo est déjà <a href="https://github.com/bimodata/bimo" target="_blank" rel="noopener noreferrer">publiée en open source</a> sous licence GNU LGPLv3. Le reste suivra petit à petit.</p>
+<p>Ce site a deux vocations:</p>
+<ul>
+<li>décrire la progression du projet de publication en open source</li>
+<li>héberger des articles démontrant des cas d'usages de Bimo</li>
+</ul>
+<p>N'hésitez pas à venir le consulter régulièrement et à utiliser le bouton contact en haut à droite pour vos commentaires, questions ou suggestions !</p>]]></content>
+        <author>
+            <name>Gaël Haméon</name>
+            <uri>https://github.com/gaelhameon</uri>
+        </author>
+    </entry>
+</feed>

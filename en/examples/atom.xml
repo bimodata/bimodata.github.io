@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bimodata.github.io/en/examples</id>
+    <title>Bimo Blog</title>
+    <updated>2022-12-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bimodata.github.io/en/examples"/>
+    <subtitle>Bimo Blog</subtitle>
+    <icon>https://bimodata.github.io/en/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Reconciling places from two different systems]]></title>
+        <id>https://bimodata.github.io/en/examples/réconcilier-les-lieux-de-deux-systèmes-différents-avec-find-best-match-for-target-among-candidates</id>
+        <link href="https://bimodata.github.io/en/examples/réconcilier-les-lieux-de-deux-systèmes-différents-avec-find-best-match-for-target-among-candidates"/>
+        <updated>2022-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article has not been translated yet.]]></summary>
+        <content type="html"><![CDATA[<p>This article has not been translated yet.</p>
+<p>If you are particularly interested in getting an english version of this article before others, if you would like to contribute some translations or for any other reason, hit the contact button and send me an email !</p>]]></content>
+        <author>
+            <name>Gaël Haméon</name>
+            <uri>https://github.com/gaelhameon</uri>
+        </author>
+        <category label="findBestMatchForTargetAmongCandidates" term="findBestMatchForTargetAmongCandidates"/>
+        <category label="places" term="places"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a new Bimo service]]></title>
+        <id>https://bimodata.github.io/en/examples/creation-du-service-get-bbox-for-place</id>
+        <link href="https://bimodata.github.io/en/examples/creation-du-service-get-bbox-for-place"/>
+        <updated>2022-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article has not been translated yet.]]></summary>
+        <content type="html"><![CDATA[<p>This article has not been translated yet.</p>
+<p>If you are particularly interested in getting an english version of this article before others, if you would like to contribute some translations or for any other reason, hit the contact button and send me an email !</p>]]></content>
+        <author>
+            <name>Gaël Haméon</name>
+            <uri>https://github.com/gaelhameon</uri>
+        </author>
+        <category label="mapmaking" term="mapmaking"/>
+        <category label="places" term="places"/>
+        <category label="getBboxForPlace" term="getBboxForPlace"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically generating images of track layouts from a Hastus map]]></title>
+        <id>https://bimodata.github.io/en/examples/extraire-automatiquement-des-images-de-plans-de-voies-à-partir-de-la-cartographie-hastus</id>
+        <link href="https://bimodata.github.io/en/examples/extraire-automatiquement-des-images-de-plans-de-voies-à-partir-de-la-cartographie-hastus"/>
+        <updated>2022-11-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This article has not been translated yet.]]></summary>
+        <content type="html"><![CDATA[<p>This article has not been translated yet.</p>
+<p>If you are particularly interested in getting an english version of this article before others, if you would like to contribute some translations or for any other reason, hit the contact button and send me an email !</p>]]></content>
+        <author>
+            <name>Gaël Haméon</name>
+            <uri>https://github.com/gaelhameon</uri>
+        </author>
+        <category label="hastus" term="hastus"/>
+        <category label="mapmaking" term="mapmaking"/>
+        <category label="geo" term="geo"/>
+        <category label="mapshaper" term="mapshaper"/>
+        <category label="places" term="places"/>
+    </entry>
+</feed>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Bimo Blog</title>
+        <link>https://bimodata.github.io/en/examples</link>
+        <description>Bimo Blog</description>
+        <lastBuildDate>Tue, 13 Dec 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Reconciling places from two different systems]]></title>
+            <link>https://bimodata.github.io/en/examples/réconcilier-les-lieux-de-deux-systèmes-différents-avec-find-best-match-for-target-among-candidates</link>
+            <guid>https://bimodata.github.io/en/examples/réconcilier-les-lieux-de-deux-systèmes-différents-avec-find-best-match-for-target-among-candidates</guid>
+            <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This article has not been translated yet.]]></description>
+            <content:encoded><![CDATA[<p>This article has not been translated yet.</p>
+<p>If you are particularly interested in getting an english version of this article before others, if you would like to contribute some translations or for any other reason, hit the contact button and send me an email !</p>]]></content:encoded>
+            <category>findBestMatchForTargetAmongCandidates</category>
+            <category>places</category>
+        </item>
+        <item>
+            <title><![CDATA[Creating a new Bimo service]]></title>
+            <link>https://bimodata.github.io/en/examples/creation-du-service-get-bbox-for-place</link>
+            <guid>https://bimodata.github.io/en/examples/creation-du-service-get-bbox-for-place</guid>
+            <pubDate>Mon, 28 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This article has not been translated yet.]]></description>
+            <content:encoded><![CDATA[<p>This article has not been translated yet.</p>
+<p>If you are particularly interested in getting an english version of this article before others, if you would like to contribute some translations or for any other reason, hit the contact button and send me an email !</p>]]></content:encoded>
+            <category>mapmaking</category>
+            <category>places</category>
+            <category>getBboxForPlace</category>
+        </item>
+        <item>
+            <title><![CDATA[Automatically generating images of track layouts from a Hastus map]]></title>
+            <link>https://bimodata.github.io/en/examples/extraire-automatiquement-des-images-de-plans-de-voies-à-partir-de-la-cartographie-hastus</link>
+            <guid>https://bimodata.github.io/en/examples/extraire-automatiquement-des-images-de-plans-de-voies-à-partir-de-la-cartographie-hastus</guid>
+            <pubDate>Sun, 27 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[This article has not been translated yet.]]></description>
+            <content:encoded><![CDATA[<p>This article has not been translated yet.</p>
+<p>If you are particularly interested in getting an english version of this article before others, if you would like to contribute some translations or for any other reason, hit the contact button and send me an email !</p>]]></content:encoded>
+            <category>hastus</category>
+            <category>mapmaking</category>
+            <category>geo</category>
+            <category>mapshaper</category>
+            <category>places</category>
+        </item>
+    </channel>
+</rss>
