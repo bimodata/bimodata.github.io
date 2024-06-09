@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_website=self.webpackChunkdocs_website||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"All our posts","items":[{"title":"Welcome to the bimo-blog !","permalink":"/en/blog/2024/06/01/bienvenue","unlisted":false}]}')}}]);

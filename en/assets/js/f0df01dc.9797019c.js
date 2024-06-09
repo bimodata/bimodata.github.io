@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_bimo_docs_website=self.webpackChunk_bimo_docs_website||[]).push([[2541],{9816:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/en/examples","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

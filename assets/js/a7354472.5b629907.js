@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_bimo_docs_website=self.webpackChunk_bimo_docs_website||[]).push([[344],{7928:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"examples"}')}}]);
