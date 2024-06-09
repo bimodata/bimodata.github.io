@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_bimo_docs_website=self.webpackChunk_bimo_docs_website||[]).push([[9647],{415:(e,s,r)=>{r.r(s),r.d(s,{default:()=>d});r(3696);var c=r(1750),t=r(3715),u=r(3237),a=r(3971),i=r(2035),o=r(2540);function d(e){return(0,o.jsx)(t.e3,{className:(0,c.A)(u.G.wrapper.docsPages),children:(0,o.jsx)(i.A,{children:(0,a.v)(e.route.routes)})})}}}]);
